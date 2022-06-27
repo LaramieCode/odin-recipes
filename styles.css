@@ -16,3 +16,16 @@
     margin: 0px 50px;
     color: aquamarine;
 }
+.recipepic {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.explanation {
+    text-align: center;
+}
+.halved {
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+}
